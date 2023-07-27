@@ -2,7 +2,7 @@
 ## import the libraries
 import streamlit as st 
 import pandas as pd
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 import numpy as np
 from Bio.SeqUtils.ProtParam import ProteinAnalysis
 
